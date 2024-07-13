@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import { useState, useEffect } from 'react';
 
-const defaultTime = 10
+const defaultTime = 60*60;
 
 function App() {
   const [isRunning,setRunning] = useState(false);
