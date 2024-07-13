@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b5c2b7a.chunk.css",
-    "main.js": "/static/js/main.33e5c3a9.chunk.js",
-    "main.js.map": "/static/js/main.33e5c3a9.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aa6089d1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aa6089d1.js.map",
-    "static/js/2.7a0aa47f.chunk.js": "/static/js/2.7a0aa47f.chunk.js",
-    "static/js/2.7a0aa47f.chunk.js.map": "/static/js/2.7a0aa47f.chunk.js.map",
-    "static/js/3.5585385c.chunk.js": "/static/js/3.5585385c.chunk.js",
-    "static/js/3.5585385c.chunk.js.map": "/static/js/3.5585385c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3b5c2b7a.chunk.css.map": "/static/css/main.3b5c2b7a.chunk.css.map",
-    "static/js/2.7a0aa47f.chunk.js.LICENSE.txt": "/static/js/2.7a0aa47f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
-    "static/media/App.css": "/static/media/parchment.a2914795.png"
+    "main.css": "/hp-countdown/static/css/main.3ae43d99.chunk.css",
+    "main.js": "/hp-countdown/static/js/main.33e5c3a9.chunk.js",
+    "main.js.map": "/hp-countdown/static/js/main.33e5c3a9.chunk.js.map",
+    "runtime-main.js": "/hp-countdown/static/js/runtime-main.c682b5d6.js",
+    "runtime-main.js.map": "/hp-countdown/static/js/runtime-main.c682b5d6.js.map",
+    "static/js/2.7a0aa47f.chunk.js": "/hp-countdown/static/js/2.7a0aa47f.chunk.js",
+    "static/js/2.7a0aa47f.chunk.js.map": "/hp-countdown/static/js/2.7a0aa47f.chunk.js.map",
+    "static/js/3.5585385c.chunk.js": "/hp-countdown/static/js/3.5585385c.chunk.js",
+    "static/js/3.5585385c.chunk.js.map": "/hp-countdown/static/js/3.5585385c.chunk.js.map",
+    "index.html": "/hp-countdown/index.html",
+    "static/css/main.3ae43d99.chunk.css.map": "/hp-countdown/static/css/main.3ae43d99.chunk.css.map",
+    "static/js/2.7a0aa47f.chunk.js.LICENSE.txt": "/hp-countdown/static/js/2.7a0aa47f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hp-countdown/static/media/logo.6ce24c58.svg",
+    "static/media/App.css": "/hp-countdown/static/media/parchment.a2914795.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa6089d1.js",
+    "static/js/runtime-main.c682b5d6.js",
     "static/js/2.7a0aa47f.chunk.js",
-    "static/css/main.3b5c2b7a.chunk.css",
+    "static/css/main.3ae43d99.chunk.css",
     "static/js/main.33e5c3a9.chunk.js"
   ]
 }
